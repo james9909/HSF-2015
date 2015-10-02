@@ -1,0 +1,9 @@
+We need to crack a zip file, and looking at the description of the problem, we can guess
+that we need to use a dictionary to brute force the password. Using fcrackzip, I was able to
+crack the password and use it to get the flag.
+
+    $ fcrackzip -v -D -u -p /usr/share/dict/words hungry.zip (The password is turkey)
+    $ unzip hungry.zip
+    $ cat flag.txt
+
+flag{dont_hurt_me_john}
