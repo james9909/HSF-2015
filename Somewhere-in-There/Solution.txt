@@ -1,0 +1,11 @@
+Running strings on the executable kinda gives us the flag
+
+D$1flag
+D$5{no_
+D$9sour
+D$=ce_n
+D$Ao_pr
+D$Eoblef
+D$Im}
+
+flag{no_source_no_problem}
