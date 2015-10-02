@@ -14,5 +14,6 @@ for num in enc[2].split(" "):
 
 flag += binascii.unhexlify("%x" % int(enc[3], 2))
 flag += "krabs_" # Base32
+flag += "it_was_numb3r_un0_y0}" # ASCII85
 
 print flag
