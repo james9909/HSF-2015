@@ -1,0 +1,4 @@
+To retrieve the alphabet, simply run the anderson file and input the alphabet.
+Then, spend some time decrypting the flag.
+
+flag{flag_fun_for_the_whole_family}
