@@ -1,0 +1,3 @@
+The list of steps are at http://www.itl.nist.gov/lab/bulletns/bltnsep06.htm
+
+collection;examination;analysis;reporting
