@@ -1,0 +1,10 @@
+The problem name sounds a lot like 'scoreboard', so if we go to the scoreboard page,
+we can reconstruct the flag by viewing the different parts in the console and source code.
+
+part_1: flag{
+part_2: th4t_m0ment_
+part_3: wh3n_ther3_
+part_4: 1$_a_fl4g_1n_th3_scorebo4rd_s0urce
+part_5: }
+
+flag{th4t_m0ment_wh3n_ther3_1$_a_fl4g_1n_th3_scorebo4rd_s0urce}
