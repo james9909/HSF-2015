@@ -1,0 +1,3 @@
+Simply adding myself as both a mentor and team member gave us the flag.
+
+flag{now_y0u_are_doing_it}
