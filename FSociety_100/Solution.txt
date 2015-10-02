@@ -1,0 +1,4 @@
+The image actually contains a zip archive, so unzipping the image will output a file
+which contains the flag.
+
+flag{a_l1ttle_z1p_a_little_z4p}
