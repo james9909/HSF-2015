@@ -1,0 +1,17 @@
+Using exif, we can extract the metadata of the jpg:
+
+--------------------+----------------------------------------------------------
+Tag                 |Value
+--------------------+----------------------------------------------------------
+Manufacturer        |iPhone
+Model               |Samsung
+X-Resolution        |300
+Y-Resolution        |300
+Resolution Unit     |Inch
+YCbCr Positioning   |Centered
+Exif Version        |Exif Version 2.1
+FlashPixVersion     |FlashPix Version 1.0
+Color Space         |Internal error (unknown value 65535)
+--------------------+----------------------------------------------------------
+
+iPhone_Samsung
