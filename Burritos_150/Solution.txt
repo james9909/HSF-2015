@@ -1,0 +1,24 @@
+The first several parts of the problem are pretty easy to get. Simply follow the TCP stream
+of the first packet:
+
+220 ubuntu FTP server (Version 6.4/OpenBSD/Linux-ftpd-0.17) ready.
+USER ctf
+331 Password required for ctf.
+PASS password
+230 User ctf logged in.
+SYST
+215 UNIX Type: L8 (Linux)
+TYPE I
+200 Type set to I
+PORT 172,30,1,29,168,115
+200 PORT command successful.
+STOR /home/ctf/Desktop/file.docx
+150 Opening BINARY mode data connection for '/home/ctf/Desktop/file.docx'.
+226 Transfer complete.
+QUIT
+221 Goodbye.
+
+For the doc file, I used NetworkMiner to retrieve the file, but I couldn't open it up on my laptop,
+so I converted it to a pdf. Opening the pdf will give us the answer to the last question, completing the flag.
+
+flag{172.30.1.24_ctf_password_/home/ctf/Desktop/file.docx_Burrito-Pie}
