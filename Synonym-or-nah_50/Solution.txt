@@ -1,0 +1,14 @@
+A quick google search of the quote yields this nice paragraph.
+
+
+    I prefer the term digital forensic investigation over digital forensics because the process that is
+associated with "digital forensics" is much more similar to a physical crime scene
+investigation than to physical forensics. The "physical forensics" are used to answer a more
+limited set of questions than a general investigation. Physical forensics is used to "identify"
+a substance, which determines the class of the substance. For example, a red liquid could be
+identified as blood or fruit juice. Physical forensics are also used to "individualize" an
+object, which determines the unique source of an object. For example, blood from a crime scene
+could be compared with a sample from a suspect to determine if the two blood samples are the
+same or two bullets could be compared to determine if they were shot from the same gun.
+
+digital forensic investigation
