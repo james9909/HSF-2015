@@ -1,0 +1,8 @@
+The problem requires solving the substitution cipher, but it is fairly easy to do.
+A quick guess tells us that the last sentence reads "P.S. The flag is __________"
+and that the first sentence is "Dear _____". If you decode the letter, you realize that
+there are 2 spots that you could not easily guess, and that is the first letter of the flag
+and the person's name. "Z" and "J" are the only leftover letters, and trying each of them as
+the flag shows which one is the flag.
+
+zbkcpyqcnd
