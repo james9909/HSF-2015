@@ -1,0 +1,5 @@
+We can convert the pdf to a txt file via the command pdftotext. Viewing the converted
+text shows some hidden text that was not visible in the pdf:
+flag={rec0gn1z3}
+
+rec0gn1z3

@@ -1,0 +1,168 @@
+The up and coming technological idea of facial recognition can be applied to a plethora of areas in cyberspace.
+Not only are these applications used in professional fields to help identify specific people, but also in social
+media for efficiency and user-ease. Taking a look at one of the most popular social media sites in the world,
+Facebook.com, you might already be able to guess how facial recognition technology might be applied in social
+media.
+Facebook.com is a social media networking site which allows you to search for your friends, celebrities,
+businesses and other pages while making use of different options to interact. One of the first things that you
+might do when setting up your user profile is uploading a picture of yourself so that others can recognize you.
+Not only can you uploaded pictures of yourself, there is an option to upload entire photo albums that may hold
+200 pictures each. As of May 2013, Facebook has reached around 1.11 billion user profiles [1]. Even if none of
+these users have uploaded any pictures other than one of themselves, Facebook still has an enormous database
+filled with faces.
+It still might be unclear how facial recognition technology plays into the goals of Facebook.com. At first,
+facial technology wasn't an option or applicable to Facebook photos. As facial recognition technology became
+more developed, and Facebook wanted to continue to improve user ease and efficiency, special photo features
+have been added for “tagging”. In this case, “tagging” refers to identifying someone in an uploaded Facebook
+picture and associating their user profile with it. Once their user profile is associated with it, it will show up on
+their page as a photo of them.
+The process of “tagging” in a Facebook photo has evolved over time to the automated facial detection
+that is seen currently. Originally, “tagging” was a manual task. This meant that you had to click on the face of a
+person, make sure the square marker was properly surrounding their head and then find their name from a list
+among the names of all your current friends. Not this this was particular hard to do, but for a photograph of more
+than a few people, it became very tedious. Facebook then added a controversial feature that was meant to make
+the “tagging” process easier which involved facial recognition technology.
+On December 15, 2010, Facebook.com announced online that they were now using facial technology
+similar to what is found in cameras, to help take the monotonicity out of having to tag the same faces over and
+over in pictures [2]. This new feature would be tag suggestions. Facebook blogger explains that when you
+
+upload new pictures, the facial recognition software is used to compare your newly added photos to existing
+photos that you are already matched in. When the algorithm finds similar photos, they are grouped together and a
+tag is suggested for you or your friends [2].
+
+flag={rec0gn1z3}
+
+The facial recognition technology that Facebook.com implements is developed from Face.com. The
+developers at Face.com design applications using facial recognition technology to help users with uploading
+photos and tagging photos. The two apps that you can use for Facebook using Face.com's facial recognition
+technology are Photo finder and Photo tagger [3]. Although the two apps are a bit different in what they
+accomplish for Facebook, they are very similar in nature. They both use the “hybrid descriptor-based funneled”
+model to identify people in everyday photos. This includes photos that may be unfocused, contain poor
+lightening or unusual angles. Photo Tagger will take your newly uploaded photos and batch people together in
+groups by their faces and suggest a person to tag for the group of photos. Photo Finder will look through photos
+that have yet to be tagger and identify face in them to suggest tags [3].
+The hybrid descriptor-based funneled model that developers at Face.com uses in their applications is a
+descriptor based method for facial recognition algorithms [4]. In a descriptor based method, face images are
+described by statistics derived from their intensities which serve template-based methods. These methods encode
+the appearance of each face image as a vector. The hybrid method is a combination of the direct distance method
+
+and the one-shot model-learning method. The distance method is a very straight forward approach for pair
+matching. The goal of pair matching is to determine whether or not two given images are the same person [4].
+The distance method will take the vectors of the encoded images and consider the distance between the vectors.
+For example, if we have two encoded images, g(I1) and g(I2), where g is the image descriptor function that
+encoded these images, I1 and I2 are considered a pair if d(g(I1), g(I2)) < T where d is a distance function and T
+is a threshold [4]. In distance based experiments, a small amount of vectors are classified after the distance is
+taken. In a different framework, the pair matching problem is handled a different way. The “one-shot learning”
+learns the model of the face in the first image and tries to classify the second image and does this again except
+reverses. Then the average prediction of the two classifications is taken as the matching score [4]. To combine
+these two methods for the hybrid method, the 8 distances that the distance method will return are concatenated
+with the 8 scores that will be obtain in the one-shot learning method. With combining these two methods, a
+significantly higher recognition rate is obtained than each of the other methods alone [4].
+One of the most used and researched facial recognition algorithms is the Elastic Bunch Graph Matching
+(EBGM) algorithm[5]. This feature-based identification method assumes certain fiducial point (facial feature)
+position points on the face and stores spectral information about the areas of facial features by convolving the
+images around the fiducial points with 2D Gabor wavelets [5]. For each fiducial point, a Gabor jet is formed
+from the convolutions. This recognition algorithm treats all images a graphs and each Gabor jet is a node on the
+graph. The model that is used for identification is the Face Bunch Graph (FGB) which consists of a stack of the
+training images [5]. The first step for a test image is to estimate the position of the fiducial points on this face
+image based on the already known points in the FBG. After the estimations, the Gabor jets are taken from the
+estimated points and a Face Graph is made for this image which is compared to all of the image in the FBG. The
+similarity of Gabor jets are measured to decided the identity of the person in the test image [5].
+For the EBGM algorithm, the better the estimation accuracy, the better the identification performance.
+For the training step, the exact coordinates of the facial features are assumed to known. Images are then broken
+down by the algorithm such to be represented internally by information about specific regions of the face, and
+transformed into a Face Graph of Gabor Jet nodes and added to the system's model (FBG) of identifiable people
+[5]. For the testing step however, there is a lot less information available about facial features (maybe only the
+
+eye pupil coordinates) which is where the estimation comes into play. The algorithm now creates the test image's
+Face Graph by estimating the positions of the facial features or fiducial points. This is done in an iterative
+manner using the known information from the FBG and previously estimated fiducial points. Once the test
+image's Face Graph is complete, it is then compared to the Face Graphs in the FBG to determine the closest
+match using a similarity metric [5].
+One of the fundamental aspects of the EBGM algorithm is the Gabor wavlets. Wavelets are used to
+analyze frequency space properties of an image [5]. To process the images, the EBGM algorithms uses a twodimensional form of Gabor wavelets. Each wavelet consists of a sine wave multiplied by a two dimensional
+Gaussian distribution. To obtain an accurate description of facial feature, the location should be convolved with
+many different wavelets with different frequencies and orientations. This will lead to the Gabor Jet for a facial
+feature [5]. The equation for a specific wavelength is as follow:
+
+where x' = x * cosθ + y * sinθ and y' = -x*sinθ + x*cosθ
+
+Since the wavelet has five different parameters, there are many different wavelets to convolve the different facial
+fiducial points. Θ specifies the wavelets orientation, rotating it around its center and can be a value between 0
+and pi [5]. λ specifies the wavelet's frequency. Large wavelengths respond to gradual changes in the image
+intensity while short wavelengths are better suited for sharp edges and bars [5]. φ specifices that phase, made up
+of a real cosine wavelet and an imaginary sine wavelet. Therefore, the phase convolution will result in a complex
+number. σ specifies that Gaussian's radius and size. The area around the image's kernel center that is affected by
+convolution. σ is usually chosen to be proportional to the wavelength. γ specifies the aspect ratio of the
+Gaussian. This parameter can determine how round the wavelet mask will be [5].
+Coefficients are generated by convolving the area around a facial feature and are then used as a
+collection to form a Gabor Jet to descrive the local frequency of a landmark location . If 80 convolution masks
+are used, a Gabor Jet will be made up of 40 wavelets with a real and imaginary component. The following
+transformation is then used:
+
+and stored in an array such that aᵢ and φᵢ correspond to the ith complex wavelet pair [5]. Now you have the
+internal representation of the a facial feature for an image.
+
+The above parts of the algorithm only helped to identify and store information about fiducial points on
+the face image. There also must be a measure to figure out the similarity between two Gabor Jets. This is
+required for feature estimation and then for identification. Three Gabor Jet similarities are measured. The first
+and simpliest is the Magnitude Similiary (MS) [5]. The phase information is not used here, but only the energy
+of the frequencies. The following formula is used for the MS calculation where N is the number of complex
+wavelet coefficients: [5]
+
+The second metric that is measured in called the Phase Similarity (PS) and computes a
+similarity between -1.0 and 1.0. The result of the following function is based on the similarity of the
+magnitudes of the frequency response but are weighted by the similarity of the phase angles [5]:
+This also means that high scores are only obtained when the magnitudes and phase angles are both
+
+similar. Even for small displacements, PS will correctly respond to the image's phase information and
+this measure will produce low similarity if the displacement between two compared jets come from a
+similar landmark location but are displaced by a small amount [5]. Other the other hand however, the
+MS will produce a high similarity for the same case. This means there is a possibility of false positives
+because of the fact that MS doesn't take any phase information into account [5].
+The last similarity measure attempts to correct for the small displacements in the Phase
+Similarity metric in somewhat of a normalization step. It is called Displacement Similarity and will
+estimate the similarity as if jet J' was extracted from a displacement d from its current location [5]. The
+following function holds the phase information while compensating for small displacements: [5]
+
+is a vector such that it points in the direction of the sin component of the Gabor
+wavelet and has a magnitude equal to the frequency of the sinusoid [5]. With this function measure of
+similarity, both magnitude and phase are considered with the compensation for phase differences.
+There are other steps and functions involved in the EBGM algorithm, such as normalization of
+an image, landmark localization, displacement estimation methods, along with many other formulas to
+help image processing and facial recognition [5]. This algorithm is used and referenced frequently in
+
+the facial recognition technology field because of the fact that it is featured-based, and this field is still
+going through tons of research trying to improve and build on preexisting algorithms.
+Although the details and mechanics of facial recognition algorithms get very complex, the use
+of these algorithms are being applied to very weird and creative software. You can now find this
+technology as a basis of matching people on an online dating website, FindYourFacemate.com. Unlike
+other dating websites which match you with a potential mate based on personality chemistry, this
+website uses facial recognition technology to match you with a mate that looks similar to you [6]. The
+idea is that people that have similar looks are innately more attracted to each other. It doesn't stop there
+however. The website, DoggelGanger.com is a pet adoption website that uses facial recognition
+technology to match potential dog owns with a pet that looks similar [6]. Sticking with the idea of
+animals being incorporated into the facial recognition population, technology is being developed by
+scientists at Fraunhofer-Gesellschaft to assist researchers that study chimps in the wild. Now individual
+members of animal groups can be singled out. Last but not least, researchers and developers of facial
+recognition technology make a leap and branch out to develop a smart phone application that can
+analyze photos of leaves and determine the species of trees[6]. It seems as if facial recognition
+technology is branching out in all different directions, and will continue to be a hot topic of research in
+biometrics.
+
+[1] C. Smith. (2013, May 6). Digital Marketing Ramblings [Online]. Available:
+http://expandedramblings.com/index.php/resource-how-many-people-use-the-top-social-media/.
+[2] J. Mitchell. (2010, Dec. 15). Making Photo Tagging Easier [Online]. Available:
+http://www.facebook.com/blog/blog.php?post=467145887130
+[3] S. Perez. (2009, July 21). Photo Tagger: Facial Recognition for Auto-Tagging Facebook Photos
+[Online]. Available: http://readwrite.com/2009/07/21/photo_tagger_facial_recognition_for_autotagging_facebook_photos
+[4] L. Wolf, T. Hassner, Y. Taigman. Descriptor Based Methods in the Wild [Online]. Available:
+http://www.openu.ac.il/home/hassner/projects/Patchlbp/WolfHassnerTaigman_ECCVW08.pdf
+[5] A. Stergiou. (2003). Elastic Bunch Graph Matching Face Recognition: Performance and
+Comparison with Subspace Projection Methods[Online]. Available:
+http://www.academia.edu/958325/Elastic_bunch_graph_matching_face_recognition_performance_and
+_comparison_with_subspace_projection_methods
+[6] M.B. Griggs. 8 Weird Ways People Are Using Facial Recognition Software [Online]. Available:
+http://www.popularmechanics.com/technology/how-to/software/8-weird-ways-people-are-using-facialrecognition-software#slide-7
+
+
