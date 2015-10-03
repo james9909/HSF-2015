@@ -1,0 +1,8 @@
+This is a crypto problem with xor, but we don't know the used to encrypt the flag.
+Luckily, we do have xortool, which will brute force the encrypted flag anyways.
+
+    $ xortool -o -x encrypt.txt
+
+If grep all the output files for flag, we can find the flag in 50.out.
+
+flag{x0r_lik3_th3r3_i$_n0_t0morrow}
