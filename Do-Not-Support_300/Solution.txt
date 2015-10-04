@@ -1,0 +1,6 @@
+The problem tells us to find out information about a website does not exist.
+However, we can look up various bits of information about the domain using external tools.
+Going to http://cyber-ninja.xyz.cutestat.com, we can view the various bits of data
+that the domain has, with one of them being the flag.
+
+flag{are_you_secretly_a_ninja?}
