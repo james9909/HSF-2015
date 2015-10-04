@@ -1,0 +1,6 @@
+Looking at the photos, it's pretty clear that you need to piece them together to make
+the flag.
+
+Piece the pictures in a 7x4 rectangle correctly to get the flag.
+
+flag{ju1ius_n3ver_went_On_4ny_d4tes}
