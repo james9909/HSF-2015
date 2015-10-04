@@ -1,0 +1,11 @@
+This problem was incredibly complicated, because there were so many files to keep track of.
+Ignoring any other red herrings, this is how you get the flag:
+
+1. Unzip GLAD.docx
+2. Go to the hidden .secret folder within pptx
+3. Extract narnia.cab
+4. Extract skinking.wmz
+5. Extract Doom
+6. View the flag at word/media/flag.png
+
+flag{fil3_incepti0n_iS_all_about_m1sdirecti0n}
