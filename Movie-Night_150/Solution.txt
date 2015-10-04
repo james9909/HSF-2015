@@ -1,0 +1,12 @@
+First I exploded the video into over 3000 frames
+
+    $ avconv -i movie_night.mp4 -vsync 1 -r 30 -an -y -qscale 1 out_%04d.jpg
+
+Then, looking through each frame, I found the encrypted flag at out_2820.jpg:
+zit ysqu ol ysqu{ezy_&_eioss}.
+
+The flag was encrypted through a substitution cipher, and we can guess that the message
+is supposed to read: 'the flag is flag{xtf_&_xhill}'
+
+We can guess the rest of the message easily and get the flag.
+flag{ctf_&_chill}
