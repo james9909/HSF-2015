@@ -1,0 +1,12 @@
+Looking at the bytes of the file, we can assume that the file is supposed to be a
+png. However, the header bytes are incorrect, and we need to correct them.
+A correct PNG begin with the following bytes:
+89 50 4e 47 0d 0a 1a 0a
+
+However, our file begins with the following bytes:
+00 00 00 00 00 00 00 00
+
+Simply replace the incorrect bytes with the correct ones to fix the png and
+get the flag.
+
+flag{@11_@60ut_th3m_Bit$}
