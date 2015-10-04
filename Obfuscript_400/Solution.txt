@@ -1,0 +1,35 @@
+The problem looked very intimidating, as the javascript was heavily obfuscated, but it was actually
+way easier than I initially thought. First thing I did was run it through a deobfuscator to
+make it look pretty before I manually deobfuscated it.
+
+While I deobfuscated a large portion of the code, the only thing noteworthy is the part that checked
+whether you were right or not.
+
+    if (keyString == "truest10fr34-511") {
+        if ((keyNumber % 2 == 0) &&
+                (keyNumber % 24 == 18) &&
+                (keyNumber > 0) &&
+                (~keyNumber < 285)))) {
+            if (keyBool == false) {
+                right();
+            } else {
+                wrong();
+            }
+        } else {
+            wrong();
+        }
+    } else {
+        wrong();
+    }
+
+This section was the most heavily obfuscated, but using the console, I was able to deobfuscate it
+by evaluating the obfuscated javascript, making it significantly more readable.
+
+We now know that the flag looks something like this:
+flag{truest10fr34-511,number,false}
+
+We simply need to know which number fits the condition, but there are several possibilities.
+Running print_flags.py prints out all the possible flags, and we can enter each of them in
+until we get the correct one.
+
+flag{truest10fr34-511,114,false}
