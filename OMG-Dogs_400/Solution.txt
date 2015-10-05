@@ -1,0 +1,16 @@
+We are given a pcapng file, but to read it with wireshark, we need it to be a pcap file.
+So we can just convert it online. Once we get the pcap file, we can tell that all the packets
+are icmp packets. We can extract the data from it and decode the hex with extract_data.py
+
+Binwalk tells us that the output of extract_data.py is a gzip archive, which we can
+extract using
+
+    $ binwalk --dd='.*' -e bin
+
+Now, we are given a POSIX tar archive, which we can also extract:
+
+    $ tar xvf 9B
+
+Viewing the screenshot that comes out of the extract gives us the flag.
+
+flag{I_c_u_Ping}
