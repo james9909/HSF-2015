@@ -62,14 +62,14 @@ int32_t get_password(void);
 /* ---------- Global Variables ---------- */
 
 int32_t g1 = 0; // 0x804a044
-bool g2 = false; // zf0
+bool valid = false; // zf0
 
 /* ------------- Functions -------------- */
 
 // Address range: 0x804864d - 0x80486ed
 int32_t get_password(void) {
     // 0x804864d
-    g2 = false;
+    valid = false;
     struct _struct__IO_FILE * file = fopen("flag.txt", "r"); // 0x8048662
     fseek(file, 0, SEEK_END);
     struct _struct__IO_FILE * curr_file_offset = (struct _struct__IO_FILE *)ftell(file); // bp-20
@@ -92,10 +92,10 @@ int main(int argc, char ** argv) {
     fgets(str, 64, (struct _struct__IO_FILE *)g1);
     struct struct_0 * v2 = v1; // 0x8048a96_0
     struct struct_0 * v3 = v2; // 0x8048ae2_0
-    int32_t v4 = 0;
+    int32_t counter = 0;
     int32_t v5 = v2->e1; // 0x8048b5d12
     // branch -> 0x8048aae
-    int32_t v6;
+    int32_t score;
     while (true) {
         // 0x8048aae
         int32_t v7; // 0x8048b39
@@ -114,14 +114,14 @@ lab_0x2973e70:
                 printf("You found a: %x!\n", v10->e1);
                 v8 = v1;
                 v9 = v8->e1 ^ v5;
-                v7 = v4 + 1;
+                v7 = counter + 1;
                 if (v7 >= 64) {
-                    v6 = v9;
+                    score = v9;
                     // break -> 0x8048b49
                     break;
                 }
                 v3 = v8;
-                v4 = v7;
+                counter = v7;
                 v5 = v9;
                 // continue -> 0x8048aae
                 continue;
@@ -134,11 +134,11 @@ lab_0x2973e70:
                         v10 = v3;
                         goto lab_0x2973e70;
                     }
-                    v6 = v5;
+                    score = v5;
                     // 0x8048b49
-                    printf("At the end of your journey, your value became: %d\n", v6);
-                    g2 = v6 == 1984717964;
-                    if (v6 == 1984717964) {
+                    printf("At the end of your journey, your value became: %d\n", score);
+                    valid = score == 1984717964;
+                    if (score == 1984717964) {
                         // 0x8048b67
                         puts("You made it out alive!");
                         get_password();
@@ -150,7 +150,7 @@ lab_0x2973e70:
                         // branch -> 0x8048b92
                     }
                     // 0x8048b92
-                    if (!g2) {
+                    if (!valid) {
                         // 0x8048ba7
                         __stack_chk_fail();
                         // branch -> 0x8048bac
@@ -158,12 +158,12 @@ lab_0x2973e70:
                     // 0x8048bac
                     return 0;
                 }
-                v6 = v5;
+                score = v5;
             }
             // 0x8048b49
-            printf("At the end of your journey, your value became: %d\n", v6);
-            g2 = v6 == 1984717964;
-            if (v6 == 1984717964) {
+            printf("At the end of your journey, your value became: %d\n", score);
+            valid = score == 1984717964;
+            if (score == 1984717964) {
                 // 0x8048b67
                 puts("You made it out alive!");
                 get_password();
@@ -175,7 +175,7 @@ lab_0x2973e70:
                 // branch -> 0x8048b92
             }
             // 0x8048b92
-            if (!g2) {
+            if (!valid) {
                 // 0x8048ba7
                 __stack_chk_fail();
                 // branch -> 0x8048bac
@@ -190,21 +190,21 @@ lab_0x2973e70:
         printf("You found a: %x!\n", v12->e1);
         v8 = v1;
         v9 = v8->e1 ^ v5;
-        v7 = v4 + 1;
+        v7 = counter + 1;
         if (v7 >= 64) {
-            v6 = v9;
+            score = v9;
             // break -> 0x8048b49
             break;
         }
         v3 = v8;
-        v4 = v7;
+        counter = v7;
         v5 = v9;
         // continue -> 0x8048aae
     }
     // 0x8048b49
-    printf("At the end of your journey, your value became: %d\n", v6);
-    g2 = v6 == 1984717964;
-    if (v6 == 1984717964) {
+    printf("At the end of your journey, your value became: %d\n", score);
+    valid = score == 1984717964;
+    if (score == 1984717964) {
         // 0x8048b67
         puts("You made it out alive!");
         get_password();
@@ -216,7 +216,7 @@ lab_0x2973e70:
         // branch -> 0x8048b92
     }
     // 0x8048b92
-    if (!g2) {
+    if (!valid) {
         // 0x8048ba7
         __stack_chk_fail();
         // branch -> 0x8048bac

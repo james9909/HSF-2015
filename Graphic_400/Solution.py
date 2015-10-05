@@ -11,9 +11,7 @@ def send_data(string):
         sys.exit(0)
 
 moves = "ARL"
-counter = 1
-while True:
-    for move in product(moves, repeat=counter):
+for x in range(64):
+    for move in product(moves, repeat=x):
         move = "".join(move)
         send_data(move)
-    counter += 1
