@@ -27,7 +27,10 @@ def get_teams():
     return teams
 
 def get_team_position(scores, team):
-    return "You are probably ranked %s out of %s teams" % (scores.keys().index(team) + 1, len(scores))
+    pos = scores.keys().index(team)
+    if pos == -1:
+        return "Invalid team"
+    return "%s is probably ranked %s out of %s teams" % (team, pos + 1, len(scores))
 
 URL = "https://hsf.csaw.engineering.nyu.edu/solves/"
 teams = get_teams()
