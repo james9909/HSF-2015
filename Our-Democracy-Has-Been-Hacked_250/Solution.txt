@@ -1,0 +1,8 @@
+This is very similar to the CSAW 2015 Lawn Care Simulator challenge, except the .git
+folder is public, so we could easily get the files using a browser. However, I like my scripts,
+so I used those to reconstruct the git objects.
+
+Retrieving the index.html swap/backup files did not help, since the contents within were red herrings.
+What you needed to do was reconstruct the log, and if you construct it fully, viewing the log gives the flag.
+
+flag{nothing_says_holidays_like_a_git_log}

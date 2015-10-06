@@ -1,0 +1,17 @@
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="css/whiterose.css">
+</head>
+<body>
+<html>
+<body>
+  <table id="wrapper">
+    <tr>
+       <td><h1>Hello friend.</h1><br></td>
+    </tr>
+    <tr>
+       <td><img src="flag.txt" alt="" /></td>
+    </tr>
+  </table>
+</body>
+</html>
