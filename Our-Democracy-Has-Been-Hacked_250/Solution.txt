@@ -6,3 +6,5 @@ Retrieving the index.html swap/backup files did not help, since the contents wit
 What you needed to do was reconstruct the log, and if you construct it fully, viewing the log gives the flag.
 
 flag{nothing_says_holidays_like_a_git_log}
+
+Alternatively, you could've viewed the log straight from the website at http://54.152.37.157/.git/logs/HEAD
