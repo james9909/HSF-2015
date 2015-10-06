@@ -1,0 +1,13 @@
+First, let's go onto his github to see if there's anything interesting there. https://github.com/breadchris
+
+Indeed, we see some interesting commits to his github.io and to the NYU Poly Hack-Night repo:
+
+https://github.com/breadchris/breadchris.github.io/commit/8c0796d1b21b875a44806e6c43b7ce8938f09de9
+https://github.com/isislab/Hack-Night/commit/9988439e0702a02c4d3d269cb64f0aa87a6cfff8
+
+Combined, they tell us that the flag is somewhere on the calendar over at http://blog.isis.poly.edu/Hack-Night.
+
+If we go far enough back on the google calendar, we find an event with the flag:
+https://www.google.com/calendar/render?eid=YmcxMnNsNmxmbWVmOWw4bW41cDVmcDJiZTAgdnJ1MHVpbzNqanNibXFzM2dpbjQxdW81ZzhAZw&ctz=America/New_York&sf=true&output=xml#eventpage_6
+
+flag{pwning_n00bs_since_the_d4y_1_w4$_b0rn}
