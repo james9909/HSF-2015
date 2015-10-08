@@ -13,4 +13,4 @@ Now, we are given a POSIX tar archive, which we can also extract:
 
 Viewing the screenshot that comes out of the extract gives us the flag.
 
-flag{I_c_u_Ping}
+flag{I_C_U_Ping}

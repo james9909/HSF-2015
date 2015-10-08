@@ -1,5 +1,4 @@
-Running strings on the jpg reveals the flag to us
+Running strings on the jpg reveals the flag.
 
 Flag:{naqebzrqn}
-
 An interesting thing to note is that "naqebzrqn" is "andromeda" rot-13 encrypted.

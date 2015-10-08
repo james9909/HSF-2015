@@ -10,4 +10,5 @@ do
 done
 
 # With a little bit of reconstruction and knowledge about memes, we can reconstruct s3cr3t
+
 # And his name is flag{JO0O0HHHNNNN_CEEENNNNA4A4A}

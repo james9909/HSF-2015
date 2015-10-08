@@ -9,4 +9,5 @@ The flag was encrypted through a substitution cipher, and we can guess that the 
 is supposed to read: 'the flag is flag{xtf_&_xhill}'
 
 We can guess the rest of the message easily and get the flag.
+
 flag{ctf_&_chill}

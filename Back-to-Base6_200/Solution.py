@@ -17,3 +17,5 @@ flag += "krabs_" # Base32
 flag += "it_was_numb3r_un0_y0}" # ASCII85
 
 print flag
+
+# flag{it_was_his_flag_mr_krabs_it_was_numb3r_un0_y0}

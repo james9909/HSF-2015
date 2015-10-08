@@ -1,6 +1,6 @@
 Viewing the file on audacity, we can see that there are 2 streams of audio coming from both
 the left and right speakers. The audio coming out of the right speaker is just a bunch of random
-noise, but the audio coming from the left contains the flag. Simply listen to the characters
-that are being spoken and join them together to make the flag.
+noise, but we can mute the audio from the right speaker, and listen to the audio coming from the left speaker.
+Simply listen to the characters that are being spoken and join them together to make the flag.
 
 WKQ3VLHBODEYRA==
