@@ -1,11 +1,18 @@
 import requests
 import json
+import sys
 from operator import itemgetter
 from collections import OrderedDict
 from bs4 import BeautifulSoup, SoupStrainer
 
+from requests.exceptions import ConnectionError
+
 def get_page(page):
-    request = requests.get(page)
+    try:
+        request = requests.get(page)
+    except ConnectionError:
+        print "Could not fetch page. Are you connected to the internet?"
+        sys.exit(1)
     return request.text
 
 def get_solves(data):
@@ -26,11 +33,22 @@ def get_teams():
             teams[team.text] = team["href"]
     return teams
 
-def get_team_position(scores, team):
+def print_teams_around(scores, team):
+    pos = scores.keys().index(team)
+    ahead = scores.keys()[pos-1]
+    ahead_points = scores[ahead]
+    behind = scores.keys()[pos+1]
+    behind_points = scores[behind]
+    print "Team %s is ahead with %s points" % (ahead, ahead_points)
+    print "Team %s is behind with %s points" % (behind, behind_points)
+
+def print_team_position(scores, team):
     pos = scores.keys().index(team)
     if pos == -1:
-        return "Invalid team"
-    return "%s is probably ranked %s out of %s teams" % (team, pos + 1, len(scores))
+        print "Invalid team"
+        return
+    print "%s is probably ranked %s out of %s teams with %s points" % (team, pos + 1, len(scores), scores[team])
+    print_teams_around(scores, team)
 
 URL = "https://hsf.csaw.engineering.nyu.edu/solves/"
 teams = get_teams()
@@ -42,4 +60,4 @@ for team in teams:
 
 scores = OrderedDict(sorted(scores.items(), key=itemgetter(1), reverse=True))
 
-print get_team_position(scores, "in/s/ane")
+print_team_position(scores, "in/s/ane")
