@@ -55,7 +55,9 @@ def write_teams(scores):
     scoreboard = ""
     for x in range(len(scores)):
         team = scores.keys()[x]
-        scoreboard += "%s. %s - %s\n" % (x + 1, team.encode("ascii", "ignore"), scores[team])
+        score = scores[team]
+        if score > 0:
+            scoreboard += "%s. %s - %s\n" % (x + 1, team.encode("ascii", "ignore"), score)
     fout.write(scoreboard)
     fout.close()
 
