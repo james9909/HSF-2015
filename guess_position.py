@@ -50,6 +50,15 @@ def print_team_position(scores, team):
     print "%s is probably ranked %s out of %s teams with %s points" % (team, pos + 1, len(scores), scores[team])
     print_teams_around(scores, team)
 
+def write_teams(scores):
+    fout = open("scoreboard.txt", "w")
+    scoreboard = ""
+    for x in range(len(scores)):
+        team = scores.keys()[x]
+        scoreboard += "%s. %s - %s\n" % (x + 1, team.encode("ascii", "ignore"), scores[team])
+    fout.write(scoreboard)
+    fout.close()
+
 URL = "https://hsf.csaw.engineering.nyu.edu/solves/"
 teams = get_teams()
 scores = {}
@@ -59,5 +68,6 @@ for team in teams:
     scores[team] = get_score(get_solves(get_page(URL + number)))
 
 scores = OrderedDict(sorted(scores.items(), key=itemgetter(1), reverse=True))
+write_teams(scores)
 
 print_team_position(scores, "in/s/ane")
