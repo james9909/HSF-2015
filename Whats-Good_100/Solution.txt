@@ -1,0 +1,4 @@
+There is nothing immediately suspicious about the website, except for the whereyouat page
+Poking around the page reveals that the flag is being sent as a header.
+
+flag{html_response_headers_hold_the_secrets_to_everything}
