@@ -1,0 +1,3 @@
+Go to the robots.txt file on the site to get the flag.
+
+flag{dom0_arigato_mr_roboto}

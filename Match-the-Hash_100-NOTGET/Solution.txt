@@ -1,0 +1,10 @@
+In order to solve the problem, you need to find the hash collision, or the hash that occurs more
+than once. We can get the md5 hashes of all the pictures by running:
+
+    $ md5sum * > hashes.txt
+
+Then, we can find the hash that occurs multiple times via:
+
+    $ sort hashes.txt | uniq -d
+
+253dd04e87492e4fc3471de5e776bc3d
