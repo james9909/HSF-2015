@@ -1,494 +1,424 @@
-1. ASMSA - 10571
-2. #freethegeese - 10571
-3.   - 10571
-4. The Entire PHP.net Security Team - 10571
-5. The Flying Penguins - 10571
-6. The Deductive Fuzzyhashers - 10571
-7. Geek Squad - 10571
-8. 1064CBread - 10571
-9. chicken nugger - 10571
-10. The Deductive Failures - 10571
-11. PHS It's - 10571
-12. Anomalous Materials - 10571
-13. Arxenix - 10571
-14. PHS Absol - 10571
-15. Helix=True - 10171
-16. Flaming Pandas - 10101
-17. PHS Bastard Executioners - 9971
-18. /dev/null - 9771
-19. RNNF - 9531
-20. Low Orbital GaBeN Cannon - 9421
-21. trophies2015 - 9421
-22. PlayFair2k15 - 9421
-23. Darkside - 9401
-24. Downloadable Ram - 8971
-25. Team Hugh Jass - 8921
-26. InvisibleHat - 8531
-27. Efiens  - 8281
-28. in/s/ane - 7971
-29. TheePotato - 7581
-30. Bletchley Park - 7551
-31. Old Greg's Boot Baileys - 7221
-32. "); DROP TABLE users; -- - 7001
-33. AuphishYellow - 6991
-34. Hypothetical Andover Cool Kids - 6941
-35. fsociety - 6851
-36. PTTLNHQDTTLTAAT10EHVKTTMM  - 6831
-37. Pseudoers - 6631
-38. TKOX - 6571
-39. CCQK - 6551
-40. Machshev - 6471
-41. Arcterus - 6451
-42. hades - 6111
-43. PHS TcHeadgear - 6081
-44. yonghwi_is_mote_solo - 6031
-45. pwn&play - 5951
-46. Big Bobby Tables - 5901
-47. Doge - 5771
-48. DreamSea - 5450
-49. comebackcity - 5351
-50. 0x4D4853 - 5331
-51. sherl0ck - 5321
-52. bmtd - 5251
-53. PHS Hold X To Glide - 5201
-54. <> - 5201
-55. 0x51da - 5181
-56. Volnov - 5121
-57. rm -rf c:\ - 5051
-58. Dem Real Crazies - 5031
-59. PHS Dreamland Whips - 4681
-60. The Best Team - 4631
-61. LIGHT - 4601
-62. Sherlocked - 4581
-63. mybrain - 4551
-64. Yeezy 2020 - 4501
-65. lol you guys really suck at this - 4421
-66. Null Pointer Exceptional - 4331
-67. Apples of Eden - 4251
-68. zenevermind - 4200
-69. WeDemBoyz - 4181
-70. MilWestA - 4181
-71. Schrdinger-watching Cats - 4101
-72. CCA Compsci - 4091
-73. Team Episcopal - 4031
-74. BBHHS - 4021
-75. DOA - 4011
-76. TFcis - 3981
-77. KMA1 - 3931
-78. OASIS Forensics - 3931
-79. Fluttershy - 3901
-80. BCCHack - 3881
-81. phieulang1993 - 3761
-82. APE - 3741
-83. Clueless - 3731
-84. HJHSH - 3731
-85. Cyber Piledrivers - 3681
-86. Boe-TKOX - 3651
-87. Math.winContest - 3651
-88. Daedr - 3600
-89. Tailored Access Operations - 3581
-90. node - 3581
-91. c6h0st - 3541
-92. FKT - 3531
-93. ballthewood - 3501
-94. Team Annex - 3481
-95. 404: Team Name Not Found - 3431
-96. Cyber Wolves - 3401
-97. Miss Calculated - 3381
-98. KTHC - 3381
-99. FoXXes - 3361
-100. Gitux - 3351
-101. ehh - 3351
-102. Open Sores - 3241
-103. RedSec - 3230
-104. Omega - 3151
-105. kikman - 3100
-106. Max Harley - 3081
-107. Mephi_31 - 3051
-108. mehdi - 3051
-109. bit 2 much - 3051
-110. fun_stuff - 3031
-111. l4cl01 - 2961
-112. hyrule - 2931
-113. @neuegram - 2901
-114. Mikael - 2901
-115. PHS Bloo Squishies - 2881
-116. cctt - 2851
-117. FlyEaglesFly - 2801
-118. Swole Patrol - 2781
-119. help - 2751
-120. Newcomer - 2731
-121. Cyber Pyrates - 2731
-122. PHS SquigittySquagittySquad - 2731
-123. TaiwaneseHerd - 2701
-124. G3 - 2691
-125. null - 2681
-126. cystem.out.print("falcons") - 2681
-127. Team Team - 2651
-128. Vanguard - 2651
-129. JSK Global Offensive - 2601
-130. root - 2601
-131. joker - 2601
-132. Re:Coded - 2601
-133. Bioshock - 2600
-134. For While Loops - 2581
-135. RDHS CyberHawks - Team 2 - 2571
-136. RDHS CyberHawks - Team 1 - 2571
-137. PHS CSAW.HEEHAW - 2561
-138. yolosquad - 2550
-139. garuda1337 - 2531
-140. Gatekeepers - 2501
-141. Woo - 2480
-142. s0ngsari - 2461
-143. chubby_bunnies_anonymous3456 - 2451
-144. Assert(True) - 2391
-145. Epsilon - 2371
-146. ggwp - 2351
-147. squad - 2341
-148. Jarhead's Jars V2 2.0 - 2341
-149. DontDropTheTable - 2331
-150. Error 404 - 2271
-151. franklesby solo - 2241
-152. SharkByte - 2201
-153. The Alphas - 2201
-154. Gin Vlad - 2201
-155. #BeatVineet - 2181
-156. Wellesley High School - 2161
-157. Burly Bovines - 2141
-158. locidol - 2131
-159. Test2 - 2101
-160. KMA - 2101
-161. JoseBeo - 2100
-162. IES Rising Stars - 2091
-163. 90k - 2081
-164. team.Rhs(); - 2081
-165. Pickle - 2081
-166. Phantom - 2060
-167. CAMS++ - 2041
-168. TripleD - 2041
-169. Lumberjacks - 2031
-170. 0utl4st - 2020
-171. RDHS CyberHawks - Team 3 - 1981
-172. PHS Iliad - 1981
-173. BrainPal - 1981
-174. PHS Blank - 1961
-175. The Recursion - 1951
-176. The Falcons - 1941
-177. J.A.M - 1931
-178. PHS Precalculaas - 1921
-179. BBHHS2 - 1911
-180. Single Doorbell - 1900
-181. TrollSid3 - 1881
-182. PHS Toast - 1881
-183. Team5490 - 1840
-184. byteMe - 1831
-185. Tech Wizards - 1831
-186. PHS nubs - 1831
-187. hackr0x20 - 1830
-188. Kappa // - 1811
-189. The Webscalers - 1801
-190. BigBoiSquad - 1801
-191. Brainiest Destiny - 1791
-192. PHS Three Inch Cliffs - 1791
-193. -R - 1781
-194. cheese.toString(); - 1781
-195. Ain't Nobody got RAM for That  - 1781
-196. Disco Ninjas - 1781
-197. Heschel - 1771
-198. Kevin - 1751
-199. -112 - 1751
-200. truongkma - 1750
-201. Flags & Dragons - 1731
-202. PHS first 5 Peas - 1731
-203. KuroYukiHime - 1731
-204. Hexpresso - 1720
-205. play like that - 1710
-206. TraiOi - 1701
-207. Do NOT Challenge - 1701
-208. ID10T Errors - 1701
-209. soft rock - 1700
-210. MilWest5 - 1691
-211. Zesty - 1681
-212. Bao Zhi - 1681
-213. fwumdeforensics - 1651
-214. 4theLulz - 1651
-215. armbet - 1631
-216. Enigma 3.0 - 1610
-217. 1234567890-=qwertyuiop[]\asdfghjkl;'zxcvbnm,./!@#$%^&*()_+QWERTYUIOP{}|ASDFGHJKL:"ZXCVBNM<>? - 1601
-218. PHS xXx_734m_n4m3_xXx - 1591
-219. Navy Sox - 1581
-220. Cyber Rams - 1581
-221. Individual - 1551
-222. khongphaidangvuadau - 1550
-223. Chantilly Team - 1550
-224. MBHS Chocollaries - 1531
-225. Red - 1521
-226. KSO - 1491
-227. Cybertonic - 1491
-228. theRookies - 1481
-229. byte.t - 1461
-230. JFB - 1451
-231. pentium4 - 1431
-232. captainghesh@gmail.com - 1431
-233. Kyle Wolves - 1431
-234. Vanlang - 1431
-235. Whizkidz - 1401
-236. BelloWeb - 1401
-237. Brian Strauch - 1400
-238. 5unKn0wn - 1400
-239. Syntaxtic - 1400
-240. ktun - 1391
-241. The Jawnz - 1391
-242. SlimyPolyester - 1381
-243. Liquid Socks - 1371
-244. PHS No Ragrets - 1371
-245. The Dream Meme Team - 1361
-246. VNC - 1351
-247. Team Oak Ridge - 1351
-248. SFT - 1350
-249. Rhendz - 1341
-250. H2Oooh - 1331
-251. IS318 Hackers - 1331
-252. CombatTeam - 1331
-253. HBJ - 1331
-254. The NCS Crew  - 1331
-255. p1x3l4t0r - 1311
-256. Jimmy and the Gills - 1301
-257. JSE - 1291
-258. Westview Lambda - 1291
-259. w3'r3b4ckb17ch3s - 1281
-260. ASCII Alias - 1251
-261. The Jitterbug Gang - 1250
-262. Fluffy Geek Fleas - 1241
-263. Blue - 1231
-264. gr8 g8r - 1231
-265. Westview Epsilon - 1231
-266. Lady Gators - 1231
-267. Forenschicks - 1231
-268. RodgerDodgers - 1231
-269. StormCallers - 1221
-270. htaccess - 1211
-271. Cryptomofos - 1201
-272. fraiden - 1200
-273. marc suxxxxx - 1190
-274. DedSec - 1181
-275. Vote for Pedro - 1181
-276. damsun123 - 1181
-277. M&A - 1181
-278. DankMemes - 1181
-279. Ghost Hackers - 1151
-280. Altair All-stars - 1151
-281. lazy lions - 1151
-282. Closs - 1151
-283. NVHHACKERS - 1151
-284. taolaquang - 1150
-285. c&e - 1131
-286. Wacky Waving Inflatable Flailing Arm Tube Men	   - 1131
-287. TheBomb.com - 1131
-288. Solving Squad - 1131
-289. RCL - 1121
-290. TLIS - 1101
-291. Rubik's Cuberz 101  - 1101
-292. m - 1101
-293. The BROgrammers - 1101
-294. Vannie reborn - 1091
-295. bhhs tech club - 1081
-296. Stark Industries - 1081
-297. Andy Made Me Do it - 1081
-298. onetwothree - 1080
-299. Westview Delta - 1051
-300. whiteboy73 - 1050
-301. Gunns and Roses - 1041
-302. Practice1 - 1031
-303. Green Triangles - 1021
-304. detective_panda16 - 1011
-305. AndyMadeMeDoIt - 1001
-306. Team CAL - 1001
-307. buddh4 - 1000
-308. The Script  - 981
-309. The Obama Kids - 981
-310. jordankma - 961
-311. SCSI - 961
-312. I have no idea what I'm doing - 951
-313. BobTheBuilder - 951
-314. Bella & The Rose  - 951
-315. Les Flocons de Neige1 - 951
-316. LittleBobbyTables - 951
-317. The codebreakers - 950
-318. S0l0B0Y - 950
-319. Westview Rho - 931
-320. wan menut - 931
-321. Serenity - 931
-322. SquadFive - 931
-323. Wolves:Nathan_Nyiri - 930
-324. The Team - 911
-325. rshtirmer - 901
-326. The Dancing Lobsters - 901
-327. GuraVladiMi - 901
-328. C0deBre4kers - 901
-329. Superari - 900
-330. Rebels - 891
-331. BlairingMusic CSawSeesaws - 891
-332. 1337 H4x0rz - 881
-333. 6116 - 881
-334. Numlocks - 881
-335. Westview Gamma - 851
-336. ADT Inc. - 851
-337. dmitry0403 - 850
-338. coolkids - 841
-339. Flying Badgers - 831
-340. Three kids - 831
-341. Unicode Unicorns - 811
-342. ixxx - 801
-343. Free Burgers on Fridays - 801
-344. l0stb1t - 800
-345. bagelbites - 800
-346. team rocket - 771
-347. Harrier - 771
-348. Night Hawk 117 - 761
-349. CTFColombia - 740
-350. mmaida - 701
-351. persona_non_grata - 700
-352. dekhi - 660
-353. HaToan - 650
-354. X.A.N.A - 650
-355. CyberTeamD - 650
-356. S.T.A.S.H. - 650
-357. garu - 650
-358. Melvin2k14 - 640
-359. Stoga Seniors - 630
-360. Underground Army - 610
-361. tinh1005 - 600
-362. wearedpsdubai - 600
-363. Much Kek - 600
-364. Mhe - 600
-365. bad-dragon.com - 580
-366. The Legend of Rose - 580
-367. Darkside Splinter Cell - 580
-368. montmarc - 550
-369. he4d - 550
-370. undertale - 550
-371. BaseZero - 550
-372. goop - 540
-373. Seebsters - 500
-374. corner - 500
-375. Cheesy - 480
-376. 42Pinecones - 460
-377. math76 - 440
-378. Alaskans - 440
-379. CSI: Poly - 430
-380. hungdh0x5w - 420
-381. ThunderBunnies - 400
-382. Turing - 400
-383. Enigma - 390
-384. Ryan's CSAW - 380
-385. aka - 380
-386. apples - 370
-387. MBHS CTRedMuffin - 370
-388. LakesideLions - 350
-389. GTV - 350
-390. Anonymous - 350
-391. M4ngoes - 350
-392. cawcaw - 330
-393. ranji - 320
-394. BYTE - 300
-395. mj - 300
-396. GLHF - 300
-397. zzzz - 300
-398. theseven - 300
-399. The Y-Nots - 300
-400. ukk1337 - 300
-401. condiecden - 300
-402. SpaceTeam6 - 300
-403. Pooka - 300
-404. shinichikudo_1212 - 300
-405. MilWestCorndog - 280
-406. 0x100 - 280
-407. butts - 280
-408. solo - 250
-409. soinc - 250
-410. concac - 250
-411. HACK KING - 240
-412. PHS first5peas - 230
-413. SAS - 230
-414. TurtleSec - 200
-415. Team TJ - 200
-416. The CIL - 200
-417. winnersss - 200
-418. ^H^H^H^H^H - 200
-419. Team 7 - 200
-420. Awesome Potato - 200
-421. LeaveRet - 200
-422. Hartnett42 - 200
-423. Meme Team - 200
-424. mtcarmel - 200
-425. Myself - 200
-426. foothebar2 - 200
-427. 1505 - 180
-428. zach - 150
-429. kaka - 150
-430. jtest - 150
-431. RIS3N - 150
-432. CyberTeamRox - 150
-433. Muffins - 150
-434. BrianCTF - 150
-435. Team0110110 - 130
-436. GNU BOYS  - 100
-437. LHS - 100
-438. GeeksSpeak - 100
-439. c633 - 100
-440. Kangzumin - 100
-441. !!! - 100
-442. NHS - 100
-443. RARE - 100
-444. CSG - 100
-445. conglomeration - 100
-446. Americans for Legalization of Anal Sex - 100
-447. hulala_222 - 100
-448. Sniper Team Delta - 100
-449. AAAAA - 100
-450. Hello World - 100
-451. WhereIsMyToast - 100
-452. peRFect - 100
-453. General Cruel Mustard - 100
-454. singed - 100
-455. for_fun - 100
-456. Aperture Science - 100
-457. s_society - 100
-458. Corn Pops - 100
-459. Orkieh - 100
-460. de_swegmoney - 100
-461. asdfghjkl - 100
-462. GVM - 100
-463. Scrappy098 - 100
-464. PHS Meme Team - 100
-465. mandiegbro - 100
-466. MilWestX - 100
-467. MilWestD - 100
-468. Team Overdrive - 100
-469. team_name - 100
-470. Team Solo - 100
-471. asdva - 90
-472. Hundal - 90
-473. Lacheem Team - 80
-474. CodeBleu - 80
-475. The Sus Corner - 80
-476. arealteam - 60
-477. KfcSucks - 50
-478. BenjaminF - 50
-479. Edisons CForensics - 50
-480. BuccoShack - 50
-481. MilWestB - 50
-482. Westview Sigma - 50
-483. The Decrypters - 30
-484. Devin Bennett - 30
-485. ???????? - 20
-486. SQUA - 20
-487. Snakes - 20
-488. {{page.name}} - 20
-489. cuti - 20
-490. Space Monkey Mafia - 10
-491. JAT - 10
-492. MBHS Chanceless - 10
-493. corrupted society - 10
-494. The Human Oreo - 10
+1     The Deductive Fuzzyhashers - 10571
+2     The Entire PHP.net Security Team - 10571
+3     chicken nugger - 10571
+4     The Flying Penguins - 10571
+5     PHS Absol - 10571
+6       - 10571
+7     PHS It's - 10571
+8     Arxenix - 10571
+9     ASMSA - 10571
+10    1064CBread - 10571
+11    Anomalous Materials - 10571
+12    The Deductive Failures - 10571
+13    #freethegeese - 10571
+14    Geek Squad - 10571
+15    Helix=True - 10171
+16    Flaming Pandas - 10101
+17    PHS Bastard Executioners - 9971
+18    /dev/null - 9771
+19    RNNF - 9531
+20    PlayFair2k15 - 9421
+21    Low Orbital GaBeN Cannon - 9421
+22    trophies2015 - 9421
+23    Darkside - 9401
+24    Downloadable Ram - 8971
+25    Team Hugh Jass - 8921
+26    InvisibleHat - 8531
+27    Efiens - 8281
+28    in/s/ane - 7971
+29    TheePotato - 7581
+30    Bletchley Park - 7551
+31    Old Greg's Boot Baileys - 7221
+32    "); DROP TABLE users; - 7001
+33    AuphishYellow - 6991
+34    Hypothetical Andover Cool Kids - 6941
+35    fsociety - 6851
+36    PTTLNHQDTTLTAAT10EHVKTTMM - 6831
+37    Pseudoers - 6631
+38    TKOX - 6571
+39    CCQK - 6551
+40    Machshev - 6471
+41    Arcterus - 6451
+42    hades - 6111
+43    PHS TcHeadgear - 6081
+44    yonghwi_is_mote_solo - 6031
+45    Big Bobby Tables - 5901
+46    Doge - 5771
+47    comebackcity - 5351
+48    0x4D4853 - 5331
+49    sherl0ck - 5321
+50    bmtd - 5251
+51    PHS Hold X To Glide - 5201
+52    <> - 5201
+53    Volnov - 5121
+54    rm -rf c: - 5051
+55    Dem Real Crazies - 5031
+56    PHS Dreamland Whips - 4681
+57    The Best Team - 4631
+58    LIGHT - 4601
+59    Sherlocked - 4581
+60    Yeezy 2020 - 4501
+61    Null Pointer Exceptional - 4331
+62    Apples of Eden - 4251
+63    zenevermind - 4200
+64    MilWestA - 4181
+65    WeDemBoyz - 4181
+66    CCA Compsci - 4091
+67    Team Episcopal - 4031
+68    BBHHS - 4021
+69    TFcis - 3981
+70    KMA1 - 3931
+71    OASIS Forensics - 3931
+72    Fluttershy - 3901
+73    BCCHack - 3881
+74    APE - 3741
+75    Clueless - 3731
+76    HJHSH - 3731
+77    Cyber Piledrivers - 3681
+78    Math.winContest - 3651
+79    Tailored Access Operations - 3581
+80    node - 3581
+81    c6h0st - 3541
+82    FKT - 3531
+83    ballthewood - 3501
+84    Team Annex - 3481
+85    404: Team Name Not Found - 3431
+86    Cyber Wolves - 3401
+87    KTHC - 3381
+88    Miss Calculated - 3381
+89    FoXXes - 3361
+90    ehh - 3351
+91    Gitux - 3351
+92    Open Sores - 3241
+93    RedSec - 3230
+94    Omega - 3151
+95    Max Harley - 3081
+96    mehdi - 3051
+97    bit 2 much - 3051
+98    hyrule - 2931
+99    @neuegram - 2901
+100    Mikael - 2901
+101    PHS Bloo Squishies - 2881
+102    FlyEaglesFly - 2801
+103    Swole Patrol - 2781
+104    help - 2751
+105    PHS SquigittySquagittySquad - 2731
+106    Cyber Pyrates - 2731
+107    Newcomer - 2731
+108    TaiwaneseHerd - 2701
+109    G3 - 2691
+110    null - 2681
+111    cystem.out.print("falcons") - 2681
+112    Vanguard - 2651
+113    Team Team - 2651
+114    root - 2601
+115    joker - 2601
+116    Re:Coded - 2601
+117    JSK Global Offensive - 2601
+118    For While Loops - 2581
+119    RDHS CyberHawks - Team 2 - 2571
+120    RDHS CyberHawks - Team 1 - 2571
+121    PHS CSAW.HEEHAW - 2561
+122    yolosquad - 2550
+123    garuda1337 - 2531
+124    Gatekeepers - 2501
+125    Woo - 2480
+126    s0ngsari - 2461
+127    chubby_bunnies_anonymous3456 - 2451
+128    Epsilon - 2371
+129    Jarhead's Jars V2 2.0 - 2341
+130    squad - 2341
+131    Error 404 - 2271
+132    franklesby solo - 2241
+133    The Alphas - 2201
+134    SharkByte - 2201
+135    #BeatVineet - 2181
+136    Wellesley High School - 2161
+137    Burly Bovines - 2141
+138    locidol - 2131
+139    KMA - 2101
+140    Test2 - 2101
+141    IES Rising Stars - 2091
+142    90k - 2081
+143    Pickle - 2081
+144    team.Rhs(); - 2081
+145    Phantom - 2060
+146    TripleD - 2041
+147    CAMS++ - 2041
+148    Lumberjacks - 2031
+149    PHS Iliad - 1981
+150    RDHS CyberHawks - Team 3 - 1981
+151    PHS Blank - 1961
+152    The Recursion - 1951
+153    The Falcons - 1941
+154    J.A.M - 1931
+155    PHS Precalculaas - 1921
+156    BBHHS2 - 1911
+157    Single Doorbell - 1900
+158    TrollSid3 - 1881
+159    PHS Toast - 1881
+160    Team5490 - 1840
+161    Tech Wizards - 1831
+162    PHS nubs - 1831
+163    byteMe - 1831
+164    Kappa // - 1811
+165    BigBoiSquad - 1801
+166    The Webscalers - 1801
+167    PHS Three Inch Cliffs - 1791
+168    Brainiest Destiny - 1791
+169    Disco Ninjas - 1781
+170    cheese.toString(); - 1781
+171    Ain't Nobody got RAM for That - 1781
+172    -R - 1781
+173    Heschel - 1771
+174    Kevin - 1751
+175    -112 - 1751
+176    truongkma - 1750
+177    KuroYukiHime - 1731
+178    Flags & Dragons - 1731
+179    PHS first 5 Peas - 1731
+180    Hexpresso - 1720
+181    TraiOi - 1701
+182    Do NOT Challenge - 1701
+183    ID10T Errors - 1701
+184    MilWest5 - 1691
+185    Bao Zhi - 1681
+186    Zesty - 1681
+187    4theLulz - 1651
+188    fwumdeforensics - 1651
+189    armbet - 1631
+190    Enigma 3.0 - 1610
+191    1234567890-=qwertyuiop[]\asdfghjkl;'zxcvbnm,./!@#$%^&*()_+QWERTYUIOP{}|ASDFGHJKL:"ZXCVBNM<>? - 1601
+192    PHS xXx_734m_n4m3_xXx - 1591
+193    Cyber Rams - 1581
+194    Navy Sox - 1581
+195    Individual - 1551
+196    khongphaidangvuadau - 1550
+197    Chantilly Team - 1550
+198    MBHS Chocollaries - 1531
+199    Red - 1521
+200    KSO - 1491
+201    Cybertonic - 1491
+202    theRookies - 1481
+203    byte.t - 1461
+204    JFB - 1451
+205    pentium4 - 1431
+206    Vanlang - 1431
+207    captainghesh@gmail.com - 1431
+208    Kyle Wolves - 1431
+209    Whizkidz - 1401
+210    Syntaxtic - 1400
+211    Brian Strauch - 1400
+212    5unKn0wn - 1400
+213    The Jawnz - 1391
+214    ktun - 1391
+215    SlimyPolyester - 1381
+216    PHS No Ragrets - 1371
+217    Liquid Socks - 1371
+218    The Dream Meme Team - 1361
+219    VNC - 1351
+220    Team Oak Ridge - 1351
+221    Rhendz - 1341
+222    H2Oooh - 1331
+223    Jimmy and the Gills - 1301
+224    JSE - 1291
+225    Westview Lambda - 1291
+226    w3'r3b4ckb17ch3s - 1281
+227    ASCII Alias - 1251
+228    The Jitterbug Gang - 1250
+229    Fluffy Geek Fleas - 1241
+230    Westview Epsilon - 1231
+231    RodgerDodgers - 1231
+232    Forenschicks - 1231
+233    gr8 g8r - 1231
+234    Lady Gators - 1231
+235    StormCallers - 1221
+236    Cryptomofos - 1201
+237    fraiden - 1200
+238    Vote for Pedro - 1181
+239    DedSec - 1181
+240    damsun123 - 1181
+241    M&A - 1181
+242    DankMemes - 1181
+243    lazy lions - 1151
+244    Ghost Hackers - 1151
+245    Altair All-stars - 1151
+246    NVHHACKERS - 1151
+247    Wacky Waving Inflatable Flailing Arm Tube Men - 1131
+248    Solving Squad - 1131
+249    TheBomb.com - 1131
+250    c&e - 1131
+251    RCL - 1121
+252    Rubik's Cuberz 101 - 1101
+253    The BROgrammers - 1101
+254    Vannie reborn - 1091
+255    Andy Made Me Do it - 1081
+256    Stark Industries - 1081
+257    bhhs tech club - 1081
+258    onetwothree - 1080
+259    Westview Delta - 1051
+260    whiteboy73 - 1050
+261    Gunns and Roses - 1041
+262    Practice1 - 1031
+263    Green Triangles - 1021
+264    detective_panda16 - 1011
+265    Team CAL - 1001
+266    AndyMadeMeDoIt - 1001
+267    buddh4 - 1000
+268    The Script - 981
+269    The Obama Kids - 981
+270    SCSI - 961
+271    jordankma - 961
+272    LittleBobbyTables - 951
+273    Bella & The Rose - 951
+274    Les Flocons de Neige1 - 951
+275    I have no idea what I'm doing - 951
+276    S0l0B0Y - 950
+277    The codebreakers - 950
+278    Westview Rho - 931
+279    Serenity - 931
+280    wan menut - 931
+281    SquadFive - 931
+282    Wolves:Nathan_Nyiri - 930
+283    The Team - 911
+284    C0deBre4kers - 901
+285    rshtirmer - 901
+286    The Dancing Lobsters - 901
+287    Superari - 900
+288    Rebels - 891
+289    BlairingMusic CSawSeesaws - 891
+290    Numlocks - 881
+291    6116 - 881
+292    1337 H4x0rz - 881
+293    Westview Gamma - 851
+294    ADT Inc. - 851
+295    dmitry0403 - 850
+296    coolkids - 841
+297    Three kids - 831
+298    Flying Badgers - 831
+299    Unicode Unicorns - 811
+300    Free Burgers on Fridays - 801
+301    team rocket - 771
+302    Night Hawk 117 - 761
+303    CTFColombia - 740
+304    mmaida - 701
+305    persona_non_grata - 700
+306    HaToan - 650
+307    X.A.N.A - 650
+308    S.T.A.S.H. - 650
+309    CyberTeamD - 650
+310    garu - 650
+311    Melvin2k14 - 640
+312    Stoga Seniors - 630
+313    Underground Army - 610
+314    wearedpsdubai - 600
+315    tinh1005 - 600
+316    Mhe - 600
+317    Much Kek - 600
+318    Darkside Splinter Cell - 580
+319    The Legend of Rose - 580
+320    BaseZero - 550
+321    he4d - 550
+322    goop - 540
+323    Seebsters - 500
+324    Cheesy - 480
+325    42Pinecones - 460
+326    math76 - 440
+327    Alaskans - 440
+328    CSI: Poly - 430
+329    hungdh0x5w - 420
+330    ThunderBunnies - 400
+331    Turing - 400
+332    Enigma - 390
+333    Ryan's CSAW - 380
+334    MBHS CTRedMuffin - 370
+335    apples - 370
+336    LakesideLions - 350
+337    M4ngoes - 350
+338    Anonymous - 350
+339    cawcaw - 330
+340    ranji - 320
+341    GLHF - 300
+342    BYTE - 300
+343    condiecden - 300
+344    ukk1337 - 300
+345    theseven - 300
+346    zzzz - 300
+347    The Y - 300
+348    SpaceTeam6 - 300
+349    Pooka - 300
+350    mj - 300
+351    0x100 - 280
+352    butts - 280
+353    MilWestCorndog - 280
+354    concac - 250
+355    HACK KING - 240
+356    PHS first5peas - 230
+357    SAS - 230
+358    Awesome Potato - 200
+359    mtcarmel - 200
+360    The CIL - 200
+361    Myself - 200
+362    Meme Team - 200
+363    ^H^H^H^H^H - 200
+364    Team 7 - 200
+365    Team TJ - 200
+366    LeaveRet - 200
+367    Hartnett42 - 200
+368    1505 - 180
+369    jtest - 150
+370    BrianCTF - 150
+371    RIS3N - 150
+372    zach - 150
+373    Team0110110 - 130
+374    for_fun - 100
+375    GeeksSpeak - 100
+376    Corn Pops - 100
+377    GNU BOYS - 100
+378    asdfghjkl - 100
+379    PHS Meme Team - 100
+380    Hello World - 100
+381    Team Overdrive - 100
+382    Team Solo - 100
+383    Kangzumin - 100
+384    team_name - 100
+385    CSG - 100
+386    GVM - 100
+387    de_swegmoney - 100
+388    MilWestD - 100
+389    MilWestX - 100
+390    Aperture Science - 100
+391    NHS - 100
+392    Americans for Legalization of Anal Sex - 100
+393    hulala_222 - 100
+394    LHS - 100
+395    Scrappy098 - 100
+396    General Cruel Mustard - 100
+397    s_society - 100
+398    Sniper Team Delta - 100
+399    conglomeration - 100
+400    Orkieh - 100
+401    RARE - 100
+402    asdva - 90
+403    Hundal - 90
+404    Lacheem Team - 80
+405    The Sus Corner - 80
+406    CodeBleu - 80
+407    arealteam - 60
+408    Edisons CForensics - 50
+409    MilWestB - 50
+410    BuccoShack - 50
+411    KfcSucks - 50
+412    BenjaminF - 50
+413    Westview Sigma - 50
+414    The Decrypters - 30
+415    Devin Bennett - 30
+416    Snakes - 20
+417    {{page.name}} - 20
+418    ???????? - 20
+419    SQUA - 20
+420    JAT - 10
+421    MBHS Chanceless - 10
+422    Space Monkey Mafia - 10
+423    corrupted society - 10
+424    The Human Oreo - 10
